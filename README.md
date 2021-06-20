@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `@rudyredhat` aka `rudy`
+- 👋 Hi, I’m [`@rudyredhat`](https://github.com/rudyredhat) aka `rudy`
 - 👀 I’m interested in `127.0.0.1` address.
 - 🌱 I’m currently learning to "Have a better version of myself than `YESTERDAY`".
 - 💞️ I love to share my learnings on my [website](https://techprephub.wordpress.com/).
